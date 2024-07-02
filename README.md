@@ -16,6 +16,23 @@ __Check out my GitHub repository:__
   </p>
 </div>
 
+
+<div>
+  <p>
+    <a href="https://github.com/julianpelle/Gestion-de-Supermercado-digital.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=Gestion-de-Supermercado-digital" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
+
+<div>
+  <p>
+    <a href="https://github.com/julianpelle/Biblioteca-Virtual-.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=Biblioteca-Virtual-" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 <br>
 
 ## Skills :
