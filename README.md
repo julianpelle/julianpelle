@@ -24,7 +24,7 @@ __Mira mis repositorios en GitHub:__
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=Sistema_Administrativo_Clubes_Futbol" alt="Sistema Administrativo Clubes de Fútbol" width="300" />
   </a>
     <a href="https://github.com/julianpelle/Gestion-de-Supermercado-digital.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=Gestion-de-Supermercado-digital" alt="Gestión de Supermercado Digital" width="255" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=Gestion-de-Supermercado-digital" alt="Gestión de Supermercado Digital" width="300" />
   </a>
   <a href="https://github.com/julianpelle/Biblioteca-Virtual-.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=Biblioteca-Virtual-" alt="Biblioteca Virtual" width="300" />
