@@ -52,7 +52,7 @@ __Mira mis repositorios en GitHub:__
         <br>Git
       </td>
       <td align="center" width="96">
-        <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40"/>
+        <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" alt="GitHub" width="40" height="40"/>
         <br>GitHub
       </td>
     </tr>
@@ -79,6 +79,15 @@ __Mira mis repositorios en GitHub:__
       <td align="center" width="96">
         <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
         <br>Spring Boot
+      </td>
+        <td align="center" width="96">
+        <img src="https://img.icons8.com/?size=100&id=11360&format=png&color=000000" alt="SQL" width="40" height="40"/>
+        <br>SQL
+      </td>
+        </td>
+        <td align="center" width="96">
+        <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="MySQL" width="40" height="40"/>
+        <br>MySQL
       </td>
     </tr>
   </table>
