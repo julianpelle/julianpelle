@@ -1,87 +1,119 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Julian Pellegrini</h1>
+<h1 align="center">
+  Hola
+  <p> Soy Julián Pellegrini </p> 
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/julianpelle?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/julianpelle?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=julianpelle.repoName) <img src="https://komarev.com/ghpvc/?username=julianpelle" alt="julianpelle" />
+<p align="center">
+  <img src="https://img.shields.io/github/followers/julianpelle?style=social" alt="Seguidores en GitHub">
+  <img src="https://img.shields.io/github/stars/julianpelle?style=social" alt="Estrellas en GitHub">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=julianpelle.repoName" alt="Visitas al perfil">
+  <img src="https://komarev.com/ghpvc/?username=julianpelle" alt="Visualizaciones del perfil">
+</p>
 
-## About Me :
+---
 
-I am an advanced student of the University Degree in Programming at UTN in Mar del Plata with experience in C and Java. I focus on efficient problem-solving and constantly seek opportunities to grow in the technology sector, valuing continuous learning.
+## 👨‍💻 Sobre Mí
 
-__Check out my GitHub repository:__
+Soy un estudiante avanzado de la Tecnicatura Universitaria en Programación en la UTN de Mar del Plata con experiencia en C y Java. Manejo tanto el paradigma estructurado como el orientado a objetos, lo que me permite abordar una variedad de problemas desde diferentes enfoques. Me enfoco en la resolución eficiente de problemas y busco constantemente oportunidades para crecer en el sector tecnológico, valorando el aprendizaje continuo.
 
-<div>
-  <p>
-    <a href="https://github.com/julianpelle/Sistema_Administrativo_Clubes_Futbol.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=Sistema_Administrativo_Clubes_Futbol" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+__Mira mis repositorios en GitHub:__
 
-
-<div>
-  <p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://github.com/julianpelle/Sistema_Administrativo_Clubes_Futbol.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=Sistema_Administrativo_Clubes_Futbol" alt="Sistema Administrativo Clubes de Fútbol" width="300" />
+  </a>
     <a href="https://github.com/julianpelle/Gestion-de-Supermercado-digital.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=Gestion-de-Supermercado-digital" alt="GitHub Stats" />
-    </a>
-  </p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=Gestion-de-Supermercado-digital" alt="Gestión de Supermercado Digital" width="255" />
+  </a>
+  <a href="https://github.com/julianpelle/Biblioteca-Virtual-.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=Biblioteca-Virtual-" alt="Biblioteca Virtual" width="300" />
+  </a>
+</div>
+<hr>
+
+## 🚀 Habilidades
+
+### 💻 Habilidades Técnicas
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" width="40" height="40"/>
+        <br>C
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40"/>
+        <br>GitHub
+      </td>
+    </tr>
+  </table>
 </div>
 
+### 📚 Habilidades en Aprendizaje
 
-<div>
-  <p>
-    <a href="https://github.com/julianpelle/Biblioteca-Virtual-.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=Biblioteca-Virtual-" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-<br>
-
-## Skills :
-
-### Technical Skills
-<div>
-  - Structured Programming on: C <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40" height="40" />
-  <br>
-  - OOP (Object-Oriented Programming) on: Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" height="40" alt="Java"/>
-  <br>
-  - Git & GitHub: <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40" alt="Git"/> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40" height="40" alt="GitHub"/>
-</div>
-
-### Technical Skills on Learning
-<div>
-   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" alt="HTML" width="40" height="40"/>
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" alt="CSS" width="40" height="40"/>
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" alt="JavaScript" width="40" height="40"/>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
+        <br>Spring Boot
+      </td>
+    </tr>
+  </table>
 </div>
 
-### Soft Skills
-<div>
-  <img src="https://img.icons8.com/color/48/000000/trello.png" width="40" height="40" alt="Trello"/>
-    <img src="https://img.icons8.com/color/48/000000/clock--v1.png" width="40" height="40" alt="Time Management"/>
-   <img src="https://img.icons8.com/color/48/000000/teamwork.png" width="40" height="40" alt="Teamwork"/>
-  <img src="https://img.icons8.com/?size=100&id=Y7xmk4MhheJ3&format=png&color=000000" width="40" height="40" alt="Scrum"/>
+### 🤝 Habilidades Blandas
 
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="40" height="40"/>
+        <br>Trello
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/clock--v1.png" alt="Gestión del Tiempo" width="40" height="40"/>
+        <br>Gestión del Tiempo
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/teamwork.png" alt="Trabajo en Equipo" width="40" height="40"/>
+        <br>Trabajo en Equipo
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/?size=100&id=Y7xmk4MhheJ3&format=png&color=000000" width="40" height="40" alt="Scrum"/>
+        <br>Scrum
+      </td>
+    </tr>
+  </table>
 </div>
 
-- Trello
-- Time Management
-- Teamwork
-- Scrum
+<hr>
 
-<br>
+## 🌍 Idiomas
 
-## Languages:
- 
-- Spanish (Native) 
-- English (B1)
+- Inglés (B1)
 
-<br>
+<hr>
 
-## Connect with me ☕ :
-
-<br>
-
-[![@julian-pellegrini](https://img.icons8.com/fluency/48/000000/linkedin.png "@julian-pellegrini")](https://www.linkedin.com/in/julian-pellegrini/) 
-[![@pellegrinijulianmauro@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@pellegrinijulianmauro@gmail.com")](mailto:pellegrinijulianmauro@gmail.com)
-
-<br>
