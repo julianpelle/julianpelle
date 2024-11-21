@@ -97,7 +97,7 @@ __Mira mis repositorios en GitHub:__
 
 ### 📚 Habilidades en Aprendizaje
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td align="center" width="96">
@@ -110,7 +110,7 @@ __Mira mis repositorios en GitHub:__
 
 ### 🤝 Habilidades Blandas
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td align="center" width="96">
