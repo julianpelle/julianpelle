@@ -26,8 +26,14 @@ __Mira mis repositorios en GitHub:__
   <a href="https://github.com/julianpelle/Biblioteca-Virtual-.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=Biblioteca-Virtual-" alt="Biblioteca Virtual" width="300" />
   </a>
-      <a href="https://github.com/julianpelle/Gestion-de-Supermercado-digital.git">
+    <a href="https://github.com/julianpelle/Gestion-de-Supermercado-digital.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=Gestion-de-Supermercado-digital" alt="Gestión de Supermercado Digital" width="300" />
+  </a>
+      </a>
+      <a href="https://github.com/julianpelle/Capital_Connection.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=Capital_Connection" alt="Capital_Connection" width="300" />
+            <a href="https://github.com/julianpelle/CrowdNet-API.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=CrowdNet-API" alt="CrowdNet-API" width="300" />
   </a>
 </div>
 <hr>
@@ -39,13 +45,43 @@ __Mira mis repositorios en GitHub:__
 <div align="center">
   <table>
     <tr>
+             <td align="center" width="96">
+        <img src="https://img.icons8.com/?size=100&id=j9DnICNnlhGk&format=png&color=000000" alt="Angular" width="40" height="40"/>
+        <br>Angular
+      </td>
+             <td align="center" width="96">
+        <img src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000" alt="TypeScript" width="40" height="40"/>
+        <br>TypeScript
+      </td>
+        <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" alt="HTML" width="40" height="40"/>
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" alt="CSS" width="40" height="40"/>
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" alt="JavaScript" width="40" height="40"/>
+        <br>JavaScript
+      </td>
+       <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
+        <br>Java
+      </td>
       <td align="center" width="96">
         <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" width="40" height="40"/>
         <br>C
       </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
-        <br>Java
+            </td>
+        <td align="center" width="96">
+        <img src="https://img.icons8.com/?size=100&id=11360&format=png&color=000000" alt="SQL" width="40" height="40"/>
+        <br>SQL
+      </td>
+        </td>
+        <td align="center" width="96">
+        <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="MySQL" width="40" height="40"/>
+        <br>MySQL
       </td>
       <td align="center" width="96">
         <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
@@ -65,30 +101,9 @@ __Mira mis repositorios en GitHub:__
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" alt="HTML" width="40" height="40"/>
-        <br>HTML
-      </td>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" alt="CSS" width="40" height="40"/>
-        <br>CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" alt="JavaScript" width="40" height="40"/>
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
         <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
         <br>Spring Boot
-      </td>
-        <td align="center" width="96">
-        <img src="https://img.icons8.com/?size=100&id=11360&format=png&color=000000" alt="SQL" width="40" height="40"/>
-        <br>SQL
-      </td>
         </td>
-        <td align="center" width="96">
-        <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="MySQL" width="40" height="40"/>
-        <br>MySQL
-      </td>
     </tr>
   </table>
 </div>
@@ -101,6 +116,10 @@ __Mira mis repositorios en GitHub:__
       <td align="center" width="96">
         <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="40" height="40"/>
         <br>Trello
+      </td>
+             <td align="center" width="96">
+        <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Jira" width="40" height="40"/>
+        <br>Jira
       </td>
       <td align="center" width="96">
         <img src="https://img.icons8.com/color/48/000000/clock--v1.png" alt="Gestión del Tiempo" width="40" height="40"/>
