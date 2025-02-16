@@ -33,7 +33,7 @@ __Mira mis repositorios en GitHub:__
       <a href="https://github.com/julianpelle/Capital_Connection.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=Capital_Connection" alt="Capital_Connection" width="300" />
             <a href="https://github.com/julianpelle/CrowdNet-API.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=julianpelle&repo=CrowdNet-API" alt="CrowdNet-API" width="300" />
+    <img src="https://github.com/julianpelle/CrowdNet-API-2.0" alt="CrowdNet-API" width="300" />
   </a>
 </div>
 <hr>
